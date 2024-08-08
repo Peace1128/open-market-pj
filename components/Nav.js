@@ -15,7 +15,7 @@ class Nav {
         </a>
         <a class="flex__between moveToLogin">
           <img src="./assets/icon-user.svg" alt="login" width="32px"/>
-          <p>로그인</p>
+          <p>로그인 test</p>
         </a>
       </nav>
       `;
